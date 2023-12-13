@@ -1,0 +1,9 @@
+
+h
+java:S1192("FDefine a constant instead of duplicating this literal "Error" 3 times.(õÁ”¾ÿÿÿÿÿ8É‚Ö¡Æ1
+i
+java:S1192A"GDefine a constant instead of duplicating this literal ".class" 3 times.(ı˜¢¯øÿÿÿÿ8ÜøÌ¡Æ1
+{
+java:S1450"^Remove the "totalClassFiles" field and declare it as a local variable in the relevant methods.(À®­8…ùÌ¡Æ1
+{
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹ùÌ¡Æ1
